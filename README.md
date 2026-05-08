@@ -2,7 +2,7 @@
 
 **KiLink** is a lightweight, modern desktop application built to monitor [Kick.com](https://kick.com) streams and extract URLs posted in the chat in real-time. Designed with streamers, moderators, and viewers in mind, KiLink captures all shared links so you never miss out on important content during a fast-moving chat.
 
-![KiLink Interface](https://via.placeholder.com/800x450.png?text=KiLink+Desktop+App)
+![KiLink Interface](assets/screenshot1.png)
 
 ## ✨ Features
 
