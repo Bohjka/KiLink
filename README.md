@@ -1,38 +1,45 @@
-# KiLink
+# KiLink — Chat Link Collector 🔗
 
-Collects and lists links shared in Kick.com chat in real time. Includes preview support for Twitter/X links.
+**KiLink** is a lightweight, modern desktop application built to monitor [Kick.com](https://kick.com) streams and extract URLs posted in the chat in real-time. Designed with streamers, moderators, and viewers in mind, KiLink captures all shared links so you never miss out on important content during a fast-moving chat.
 
-## Installation
+![KiLink Interface](https://via.placeholder.com/800x450.png?text=KiLink+Desktop+App)
 
-1. Download the latest `.exe` from [Releases](../../releases)
-2. Run `KiLink.exe` — no installation required
+## ✨ Features
 
-## Features
+- **Real-Time Monitoring:** Directly connects to Kick.com's Pusher WebSocket infrastructure to instantly catch messages containing URLs.
+- **Auto-Categorization:** Automatically filters incoming links by platform (Twitter/X, YouTube, Instagram, Reddit, and Other) for easy browsing.
+- **Embedded Previews:** Click on any Twitter/X link to instantly see an embedded preview right inside the app, without opening a browser.
+- **Read/Unread Tracking:** Keeps track of which links you have already opened (`opened`) and which ones are brand new (`new`).
+- **Persistent Memory:** Saves your last connected channel and remembers it for your next session.
+- **Custom Frameless Design:** Built with a sleek, dark UI featuring "Kick Green" highlights and fully custom frameless window controls.
 
-- Connects to any Kick.com channel via WebSocket
-- Automatically captures all links shared in chat
-- Displays sender role (broadcaster, moderator, VIP)
-- Built-in Twitter/X link preview
-- Tracks new and opened links
-- Save channel name and auto-connect on startup
+## 🛠️ Technologies Used
 
-## Usage
+- **Backend:** Python 3, `pywebview`, `websocket-client`, `requests`
+- **Frontend:** Vanilla HTML5, CSS3, JavaScript
+- **Architecture:** Local Python process serving an embedded Chromium/Edge HTML instance, communicating via bidirectional JS bridges.
 
-Type a channel name into the `kick.com/` field and click **Connect**.
+## 🚀 Installation & Setup
 
-## Development
+1. Download the latest `KiLink.exe` file from the **Releases** page.
+2. Place the `.exe` file in your preferred folder.
+3. Run the application! No installation or Python setup is required.
 
-If you want to run from source:
+## 🎮 Usage
 
-- Python 3.10+
-- Install dependencies:
+1. Open **KiLink**.
+2. In the top right corner, enter the username of the Kick channel you want to monitor (e.g., `xqc`, `trainwreckstv`).
+3. Check **"Remember channel"** if you want the app to automatically connect to this channel on your next startup.
+4. Click **Connect**.
+5. As viewers post links in the chat, they will appear in the left panel. Use the filter buttons to sort them, and click on any card to view the link.
 
-```bash
-pip install -r requirements.txt
-python main.py
-```
+## 🤝 Contributing
 
-## License
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Bohjka/KiLink/issues) if you want to contribute.
 
-This project is provided for personal and educational use only.
-Commercial use and modification of the source code are prohibited. See [LICENSE](LICENSE) for details.
+## 📄 License
+
+This project uses a **Custom License**. It is free for personal and educational use, but commercial use, modification, or redistribution is strictly prohibited. See the [LICENSE](LICENSE) file for the full Terms of Use.
+
+---
+*Created by [Bohjka](https://github.com/Bohjka)*
