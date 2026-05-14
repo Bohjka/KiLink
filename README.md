@@ -37,6 +37,14 @@
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Bohjka/KiLink/issues) if you want to contribute.
 
+## ⚠️ Disclaimer
+
+**KiLink** is an unofficial, third-party tool and is **not** affiliated with, endorsed by, or sponsored by [Kick.com](https://kick.com) or any of its parent companies.
+
+- **Content Liability:** This application automatically collects URLs posted by users in public chat rooms. The developer is not responsible for the content, safety, or validity of any links collected. Users should exercise caution and use their own judgment before clicking on any third-party links.
+- **As-Is Software:** This software is provided "as is", without warranty of any kind.
+- **Terms of Service:** By using this application, you are solely responsible for ensuring your usage complies with Kick.com's Terms of Service and any other applicable local laws.
+
 ## 📄 License
 
 This project uses a **Custom License**. It is free for personal and educational use, but commercial use, modification, or redistribution is strictly prohibited. See the [LICENSE](LICENSE) file for the full Terms of Use.
