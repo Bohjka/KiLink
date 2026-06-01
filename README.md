@@ -37,13 +37,15 @@
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Bohjka/KickLink/issues) if you want to contribute.
 
-## ⚠️ Disclaimer
+Disclaimer
 
-**KickLink** is an unofficial, third-party tool and is **not** affiliated with, endorsed by, or sponsored by [Kick.com](https://kick.com) or any of its parent companies.
+This software is provided "as is", without warranty of any kind, express or implied. The author is not responsible for any damages, data loss, security issues, service interruptions, or other consequences resulting from the use, misuse, or inability to use this software.
 
-- **Content Liability:** This application automatically collects URLs posted by users in public chat rooms. The developer is not responsible for the content, safety, or validity of any links collected. Users should exercise caution and use their own judgment before clicking on any third-party links.
-- **As-Is Software:** This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
-- **Terms of Service:** By using this application, you are solely responsible for ensuring your usage complies with Kick.com's Terms of Service and any other applicable local laws. The developer assumes no responsibility for any account suspensions or bans that may occur from using this software.
+Users are solely responsible for reviewing, testing, and validating the software before deploying it in production environments. Use of this project is at your own risk.
+
+This project may contain bugs, incomplete features, or undocumented behavior. The author makes no guarantees regarding reliability, availability, compatibility, or fitness for a particular purpose.
+
+By using this software, you acknowledge and accept these terms.
 
 ## 📄 License
 
