@@ -37,19 +37,5 @@
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Bohjka/KickLink/issues) if you want to contribute.
 
-## ⚠️ Disclaimer
-
-This software is provided "as is", without warranty of any kind, express or implied. The author is not responsible for any damages, data loss, security issues, service interruptions, or other consequences resulting from the use, misuse, or inability to use this software.
-
-Users are solely responsible for reviewing, testing, and validating the software before deploying it in production environments. Use of this project is at your own risk.
-
-This project may contain bugs, incomplete features, or undocumented behavior. The author makes no guarantees regarding reliability, availability, compatibility, or fitness for a particular purpose.
-
-By using this software, you acknowledge and accept these terms.
-
-## 📄 License
-
-This project uses a **Custom License**. It is free for personal and educational use, but commercial use, modification, or redistribution is strictly prohibited. See the [LICENSE](LICENSE) file for the full Terms of Use.
-
 ---
 *Created by [Bohjka](https://github.com/Bohjka)*
