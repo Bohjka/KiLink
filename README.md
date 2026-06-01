@@ -37,7 +37,7 @@
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Bohjka/KickLink/issues) if you want to contribute.
 
-Disclaimer
+## ⚠️ Disclaimer
 
 This software is provided "as is", without warranty of any kind, express or implied. The author is not responsible for any damages, data loss, security issues, service interruptions, or other consequences resulting from the use, misuse, or inability to use this software.
 
